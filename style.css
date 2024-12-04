@@ -22,9 +22,8 @@ header {
 
 header img {
   margin-bottom: 10px;
-  padding-top: 55px;
+  padding-top: 75px;
   margin-left: 40%;
-  /* background: rgba(255, 255, 255, 0.8); */
   border-radius: 30px;
 }
 
@@ -110,6 +109,8 @@ header img {
   color: #04abeb;
   font-weight: bold;
   line-height: 1;
+  text-shadow: 3px 4px 4px rgba(4, 171, 235, 0.8)
+  ;
   opacity: 0;
   animation: animate 1s ease-in-out 0.3s 1 forwards;
 }
