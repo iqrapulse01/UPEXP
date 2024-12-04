@@ -336,7 +336,7 @@ header img {
 @media (max-width: 505px) {
   .list .item .content {
     width: 63%;
-    margin-top: 25px;
+    margin-top: 20px;
   }
   .content .title {
     font-size: 28px;
@@ -348,7 +348,7 @@ header img {
 @media (max-width: 493px) {
   .list .item .content {
     width: 63%;
-    margin-top: 35px;
+    margin-top: 30px;
   }
   .content .title {
     font-size: 26px;
@@ -363,6 +363,7 @@ header img {
   .arrows button {
     width: 30px;
     height: 30px;
+    font-size: 8px;
 
   }
 }
