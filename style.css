@@ -342,9 +342,6 @@ header img {
   .content .title {
     font-size: 28px;
   }
-  .content .name {
-    font-size: 22px;
-  }
 }
 @media (max-width: 493px) {
   .list .item .content {
@@ -358,12 +355,11 @@ header img {
     font-size: 20px;
   }
   .arrows{
-    margin-top: 20px;
     padding-left: 30px;
   }
   .arrows button {
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     font-size: 8px;
 
   }
