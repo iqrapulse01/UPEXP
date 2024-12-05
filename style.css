@@ -364,7 +364,7 @@ header img {
 }
 @media (max-width: 493px) {
   header img{
-    margin-left: 35%;
+    margin-left: 33%;
   }
   .list .item .content {
     width: 63%;
