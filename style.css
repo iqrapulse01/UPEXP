@@ -122,11 +122,8 @@ header img {
 .content .title {
   font-size: 70px;
   text-transform: uppercase;
-  color: #04abeb;
   font-weight: bold;
   line-height: 1;
-  text-shadow: 3px 4px 4px rgba(4, 171, 235, 0.8)
-  ;
   opacity: 0;
   animation: animate 1s ease-in-out 0.3s 1 forwards;
 }
